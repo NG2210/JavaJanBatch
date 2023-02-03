@@ -19,7 +19,7 @@ public class Div {
         if(a == b){
             System.out.println("a & b are same.... ");
         }else{
-            System.out.println("a & b are not same...");
+            System.out.println("a & ---b are not same...");
         }
 
 
